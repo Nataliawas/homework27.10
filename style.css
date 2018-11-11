@@ -9,7 +9,7 @@ table {
       
    height: 200px;
    overflow: hidden;
-   margin: 50px 280px;
+   margin: 50px 0;
    display: flex;
    align-items: center;
    flex-direction: space-around;
@@ -33,7 +33,7 @@ table {
          padding: 15px 0;
     }
     }
-.sign{
+.container__sign{
    
     display: flex;
     flex-direction: column;
